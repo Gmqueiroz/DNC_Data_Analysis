@@ -16,7 +16,7 @@ Este desafio consistiu na criação de um **template (`.pbit`) reutilizável** n
 
 Neste desafio, foram utilizadas **queries SQL** para análise de dados e elaboração de dashboards no PowerPoint.
 
-📂 Arquivo: [RID_Desafio_2.pptx](./RID_ #185234 - Desafio 2.pptx)
+📂 Arquivo: [RID_ #185234 - Desafio 2 (1).pptx](./RID_%20%23185234%20-%20Desafio%202%20%281%29.pptx)
 
 ### Queries utilizadas:
 - **Gênero (Pizza)**  
@@ -36,15 +36,13 @@ Neste desafio, foram utilizadas **queries SQL** para análise de dados e elabora
 
 Criação de um **dashboard completo** no Power BI, com foco em **KPIs, visualização eficiente e navegação intuitiva**.
 
-📂 Arquivo: [Desafio_3.pbix](./#185234_Desafio_3.pbix)
+📂 Arquivo: [#185234_Desafio_3.pbix](./%23185234_Desafio_3.pbix)
 
 ### Habilidades demonstradas:
 - Modelagem em estrela
 - Criação de medidas com DAX
 - Layout visual com boa usabilidade
 - Construção de filtros e drill-through
-
----
 
 ## 📬 Contato
 
