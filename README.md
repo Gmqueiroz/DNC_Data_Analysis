@@ -16,7 +16,7 @@ Este desafio consistiu na criação de um **template (`.pbit`) reutilizável** n
 
 Neste desafio, foram utilizadas **queries SQL** para análise de dados e elaboração de dashboards no PowerPoint.
 
-📂 Arquivo: [RID_Desafio_2.pptx](./RID_#185234_-_Desafio_2_(1).pptx)
+📂 Arquivo: [RID_Desafio_2.pptx](./RID_ #185234 - Desafio 2.pptx)
 
 ### Queries utilizadas:
 - **Gênero (Pizza)**  
