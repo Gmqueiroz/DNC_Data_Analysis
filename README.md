@@ -44,10 +44,10 @@ Criação de um **dashboard completo** no Power BI, com foco em **KPIs, visualiz
 - Layout visual com boa usabilidade
 - Construção de filtros e drill-through
 
-#📘 Projetos em Python – Agenda de Contatos e Gerenciador de Tarefas
+# 📘 Projetos em Python – Agenda de Contatos e Gerenciador de Tarefas
 Este repositório contém dois projetos em Python desenvolvidos como parte do meu processo de aprendizado. Ambos os sistemas foram construídos de forma incremental, com foco em lógica de programação, estruturas de dados e manipulação de arquivos .json.
 
-##📁 Projeto 1 – Agenda de Contatos
+## 📁 Projeto 1 – Agenda de Contatos
 Sistema de agenda de contatos simples, feito a partir de uma videoaula prática. Durante o processo, foram implementadas melhorias como:
 
 Estruturação com funções;
@@ -64,7 +64,7 @@ Email (deve conter @ e .);
 
 Armazenamento persistente usando um arquivo agenda.json.
 
-###🛠 Funcionalidades:
+### 🛠 Funcionalidades:
 
 Adicionar contatos com validação de entrada;
 
@@ -74,10 +74,10 @@ Remover e listar contatos;
 
 Salvar e carregar dados automaticamente com JSON.
 
-##📁 Projeto 2 – Gerenciador de Tarefas
+## 📁 Projeto 2 – Gerenciador de Tarefas
 Aplicativo de lista de tarefas desenvolvido de forma progressiva, começando com comandos básicos de print e input, e evoluindo para a estrutura de dados com listas de dicionários e uso de JSON.
 
-#🛠 Funcionalidades:
+# 🛠 Funcionalidades:
 
 Adição de tarefas com prioridade;
 
@@ -87,7 +87,7 @@ Remoção por nome;
 
 Salvamento e carregamento automático das tarefas no arquivo tarefas.json.
 
-##💡 Aprendizados colocados em prática
+## 💡 Aprendizados colocados em prática
 Uso de funções para modularização do código;
 
 Manipulação de listas de dicionários (tarefas, agenda);
